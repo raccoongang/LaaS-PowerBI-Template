@@ -1,7 +1,9 @@
-PowerBI workspace template for Microsoft LaaS OpenEdx installations
+PowerBI workspace templates for Microsoft LaaS OpenEdx installations
 =====
 
-This is a template for reporting student activity on OpenEdx.
+- [LaaSOpenEdx.pbix](LaaSOpenEdx.pbix) - This is a template for reporting student activity on OpenEdx.
+- [LaaSTop100Statistics.pbix](LaaSTop100Statistics.pbix) - Advanced version of LaaSOpenEdx.pbix template
+  with TOP10-20 monthly, yearly reports for enrollments and completions
 
 HOWTO
 =====
